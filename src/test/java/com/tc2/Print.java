@@ -16,7 +16,7 @@ public class Print {
 		Print print = new Print();
 		print.print();
 		
-		Print print2 = new Print();
-		print2.print2();
+		/*Print print2 = new Print();
+		print2.print2();*/
 	}
 }
