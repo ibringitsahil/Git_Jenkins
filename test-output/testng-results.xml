@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104809" started-at="2018-06-03T19:46:02Z" finished-at="2018-06-03T19:47:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104809" started-at="2018-06-03T19:46:02Z" finished-at="2018-06-03T19:47:46Z">
+      <class name="com.tc2.TestCase1">
+        <test-method status="PASS" signature="LoadBrowser()[pri:0, instance:com.tc2.TestCase1@5c3bd550]" name="LoadBrowser" is-config="true" duration-ms="104246" started-at="2018-06-04T01:16:02Z" finished-at="2018-06-04T01:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadBrowser -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.tc2.TestCase1@5c3bd550]" name="firstTest" duration-ms="365" started-at="2018-06-04T01:17:46Z" finished-at="2018-06-04T01:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- com.tc2.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
