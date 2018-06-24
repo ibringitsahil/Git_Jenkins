@@ -1,14 +1,18 @@
 package com.tc2;
 
+import java.util.Scanner;
+
 public class Print {
 	
-	public void print(){
-		int[] arr = {2,4,6};
+	public void print(){/*
+		int[] arr = {1,5,3,6};
 		
-		for(int i=0;i<arr.length;i++){
-		  System.out.println(arr[i]);
+		for(int i =0 ; i<arr.length;i++){
+			if(arr[i]<arr[i+1] && arr[i] < arr[i+2] && arr[i < ]){
+				
+			}
 		}
-	}
+	*/}
 	
 
 	
