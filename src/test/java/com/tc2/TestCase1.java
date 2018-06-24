@@ -34,7 +34,7 @@ public class TestCase1 {
     @Test
     public void TC1_DragAndDrop() throws InterruptedException{
     	try{
-    	Assert.assertEquals(driver.getTitle(), "Selenium Framework |   Practiceform");
+    	Assert.assertEquals(driver.getTitle(), "Selenium Framework |   Practiceform1");
     	System.out.println("Successfull");
     }catch (Exception e) {
     	System.out.println("Fail");
