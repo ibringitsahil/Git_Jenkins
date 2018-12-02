@@ -9,6 +9,7 @@ public class Print {
 		int[] arr = {1,5,3,6};
 		
 	/*	110011aaafor(int i =0 ; i<arr.length;i++){
+	/*	Testfor(int i =0 ; i<arr.length;i++){
 			if(arr[i]<arr[i+1] && arr[i] < arr[i+2] && arr[i < ]){
 				
 			}
