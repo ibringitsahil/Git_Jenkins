@@ -7,7 +7,7 @@ public class Print {
 	public void print(){
 		int[] arr = {1,5,3,6};
 		
-	/*	11111000for(int i =0 ; i<arr.length;i++){
+	/*	11111000444for(int i =0 ; i<arr.length;i++){
 			if(arr[i]<arr[i+1] && arr[i] < arr[i+2] && arr[i < ]){
 				
 			}
